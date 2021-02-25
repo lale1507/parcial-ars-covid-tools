@@ -1,0 +1,6 @@
+eci\arsw\covidanalyzer\CovidAnalyzerTool.class
+eci\arsw\covidanalyzer\Result.class
+eci\arsw\covidanalyzer\ResultAnalyzer.class
+eci\arsw\covidanalyzer\TestReader.class
+eci\arsw\covidanalyzer\TestReporter.class
+eci\arsw\covidanalyzer\ThreadProcessCovidAnalyzer.class
